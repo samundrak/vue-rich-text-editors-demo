@@ -1,6 +1,11 @@
-# vue-cli
+# Demo of Rich text editors integrated with vue
 
-> A Vue.js project
+## Editors included
+-[x] Quill
+-[x] Medium
+-[x] Trumbowg
+-[x] Froala
+-[x] Wysiwyg
 
 ## Build Setup
 
