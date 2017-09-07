@@ -7,7 +7,7 @@
 * Froala
 * Wysiwyg
 
-Demo [Demo](https://samundrak.github.io/vue-rich-text-editors-demo)
+[Demo](https://samundrak.github.io/vue-rich-text-editors-demo)
 ## Build Setup
 
 ``` bash
